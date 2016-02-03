@@ -30,6 +30,10 @@ public class Ejercicio4 {
         System.out.println("--------Resta-------");
         System.out.println("Se resta 5 - 10: ");
         System.out.println("Resultado: " + res);
+        res = a / b;
+        System.out.println("------Division------");
+        System.out.println("Se divide 5 / 10: ");
+        System.out.println("Resultado: " + res);
 
     }
 
